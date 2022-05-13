@@ -34,5 +34,8 @@
 - System Design Interview – An insider's guide Vol I [[goodreads](https://www.goodreads.com/book/show/54109255-system-design-interview-an-insider-s-guide)]
 - System Design Interview – An insider's guide Vol II [[goodreads](https://www.goodreads.com/book/show/60631342-system-design-interview-an-insider-s-guide)]
 - Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems [[goodreads](https://www.goodreads.com/book/show/34626431-designing-data-intensive-applications)]
+- Ace the Data Science Interview [[goodreads](https://www.goodreads.com/book/show/58949285-ace-the-data-science-interview)]
+
+
 ### Solve as much as possible problems using [[LeetCode (recommended!!)](https://leetcode.com)] or [[HackerEarth](https://www.hackerearth.com/practice/)] or [[FreeCodeCamp (beginner level!!)](https://www.freecodecamp.org/learn/coding-interview-prep/)]
 ### Do mock interviews with experts using [[InterviewQuery](https://www.interviewquery.com)] or [[interviewing.io](https://interviewing.io)]
