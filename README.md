@@ -38,4 +38,4 @@
 
 
 ### Solve as much as possible problems using [[LeetCode (recommended!!)](https://leetcode.com)] or [[HackerEarth](https://www.hackerearth.com/practice/)] or [[FreeCodeCamp (beginner level!!)](https://www.freecodecamp.org/learn/coding-interview-prep/)]
-### Do mock interviews with experts using [[InterviewQuery](https://www.interviewquery.com)] or [[interviewing.io](https://interviewing.io)]
+### Do mock interviews with experts using [[InterviewQuery](https://www.interviewquery.com)] , [[interviewing.io](https://interviewing.io)] or [[IGotAnOffer](https://app.igotanoffer.com/coaching/tech/)]
