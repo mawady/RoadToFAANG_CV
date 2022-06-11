@@ -14,6 +14,7 @@
 - [Data Science Cheatsheet 2.0](https://github.com/aaronwangy/Data-Science-Cheatsheet/blob/main/Data_Science_Cheatsheet.pdf)
 - [Cheatsheet for Machine Learning and Data Science](https://sites.google.com/view/datascience-cheat-sheets)
 - [Explore InterviewCake webpages](https://www.interviewcake.com)
+- [Scan Tech Interview Handbook](https://www.techinterviewhandbook.org)
 ---
 ## Long-term learning list (i.e. I am searching for a job in next few months, what should i do?)
 ### Free courses
