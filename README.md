@@ -35,7 +35,7 @@
 - System Design Interview – An insider's guide Vol I [[goodreads](https://www.goodreads.com/book/show/54109255-system-design-interview-an-insider-s-guide)]
 - System Design Interview – An insider's guide Vol II [[goodreads](https://www.goodreads.com/book/show/60631342-system-design-interview-an-insider-s-guide)]
 - Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems [[goodreads](https://www.goodreads.com/book/show/34626431-designing-data-intensive-applications)]
-- [Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications](https://www.goodreads.com/book/show/60715378-designing-machine-learning-systems)
+- Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications [[goodreads](https://www.goodreads.com/book/show/60715378-designing-machine-learning-systems)]
 - Ace the Data Science Interview [[goodreads](https://www.goodreads.com/book/show/58949285-ace-the-data-science-interview)]
 
 
